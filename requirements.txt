@@ -5,4 +5,4 @@ notebook==7.2.2
 pytreebank==0.2.7
 tomli==2.0.1
 torch==2.4.0
-transformers==4.43.3
+transformers==4.48.0
